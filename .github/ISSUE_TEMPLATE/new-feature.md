@@ -2,6 +2,6 @@
 name: New Feature
 about: Use this template for tracking new features.
 title: "[DATE]: [FEATURE NAME]"
-labels: needs-triage
+labels: 'needs-triage,kind/enhancement'
 assignees: ''
 ---
